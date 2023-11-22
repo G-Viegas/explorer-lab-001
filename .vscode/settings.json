@@ -34,5 +34,5 @@
   },
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "window.zoomLevel": 0,
-  "cSpell.words": ["imask", "mastercard"]
+  "cSpell.words": ["cardtype", "imask", "mastercard"]
 }
